@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CalculatorChashchin.wpf/CalculatorChashchin.WPF.csproj" />
+  <Project Path="CalculatorChashchin/CalculatorChashchin.csproj" />
+  <Project Path="TestProject1/CalculatorChashchin.Tests.csproj" />
+</Solution>
